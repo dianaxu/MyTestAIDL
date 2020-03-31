@@ -1,0 +1,2 @@
+# MyTestAIDL
+AIDL模板
